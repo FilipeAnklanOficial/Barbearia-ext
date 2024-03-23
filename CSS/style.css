@@ -1,0 +1,9 @@
+.cabecalho-principal {
+    height: auto;
+    width: 250px;
+    background-color: rgb(8, 70, 204);
+}
+
+.menu-cabecalho {
+    color: black;
+}
